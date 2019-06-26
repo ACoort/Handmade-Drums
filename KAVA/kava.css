@@ -1,0 +1,59 @@
+.nav_strip {
+    font-size: 30px;
+    font-variant: small-caps;
+    font-family: cursive;
+} 
+
+.nav_heading li{
+    list-style-type: none;
+    float: left;
+    padding-right: 2em;
+}
+
+.nav_heading{
+    width: 100%;
+    background-position: center;
+    background-color: black;
+    padding-left: 5%;
+    padding-top: 0%;
+    margin: 0%; 
+}
+
+a {
+    text-decoration: none; 
+    color: white;
+}
+
+body{
+    margin: 0;
+    background-color: black; 
+    background-size: cover;
+}
+
+header {
+    height: 192px;
+    width: 100%;
+    background-image: url("Images/KAVA123.jpg")    
+}
+
+div {
+    padding-top: 0%; 
+}
+
+ul {
+    margin: 0%; 
+}
+
+#main_body{
+    padding-left: 1%;
+    padding-right: 1%;
+    border: 50px solid black;
+    font-family: monospace;
+    font-size: 16px;
+    color: darkgoldenrod;
+    background-color: whitesmoke;
+}
+
+#email,#phone{
+    font-size: 20px;
+}
